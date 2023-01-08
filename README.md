@@ -36,4 +36,4 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install each pa
 
 🌐 My Portfolio: *<https://kebiri-isam-dine.github.io/>*
 
-🔗 Project Link: [https://github.com/kebiri-isam-dine/UnivesityProjects](https://github.com/kebiri-isam-dine/UnivesityProjects)
+🔗 Project Link: [https://github.com/Kebiri-isam-dine/UniversityProjects](https://github.com/Kebiri-isam-dine/UniversityProjects)
