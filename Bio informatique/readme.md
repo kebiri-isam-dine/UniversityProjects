@@ -1,8 +1,8 @@
-# Manipulation des séquences nucléotides (ADN et ARN) en Bio-Informatique
+# Manipulation des séquences nucléotides (ADN et ARN) en BioInformatique
 
 
 ![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/UniversityProjects?color=red&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Kebiri-isam-dine/UniversityProjects/tree/main/Bio%20informatique?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/UniversityProjects?color=yellow&style=for-the-badge)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
