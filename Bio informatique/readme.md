@@ -10,7 +10,7 @@
 
 ## About The Project
 
-Ce projet se compose en trois parties :
+Ce projet se compose en trois parties :   
 ➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides : ["Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning"](https://www.nature.com/articles/s41598-020-80363-5)  
 ➥ Étude des outils BLAST et FASTA et l’alignement des séquences en utilisant ces outils   
 ➥ Programmer la méthode d’alignement globale par programmation dynamique en python et de déduire l’arbre phylogénique par la méthode UPGMA     
