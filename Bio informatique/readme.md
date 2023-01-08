@@ -28,7 +28,7 @@ Deep Learning, genopy, ADN, ARN, NCBI, PDB, PubMed, alignement des séquences nu
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install :
 
-```python
+```python 
 pip install genopy 
 pip install Bio.Align.Applications
 ```
@@ -50,7 +50,7 @@ Le Dataset séquences de protéines ce trouve [ici](data-sequence.txt)
 - Première partie :
   - Travaille demandé :   
 ➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides   
-  - Rendement :
+  - Rendement :   
 ➥ [Rapport sur l'article Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning](Output/Rapport01.pdf)   
 ➥ [Décortication de l'aticle](Output/Décortication_de_l'aticle.pdf)   
   
