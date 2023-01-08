@@ -28,7 +28,7 @@ Deep Learning, genopy, ADN, ARN, NCBI, PDB, PubMed, alignement des séquences nu
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install :
 
-```bash
+```python
 pip install genopy 
 pip install Bio.Align.Applications
 ```
