@@ -11,9 +11,9 @@
 ## About The Project
 
 Ce projet se compose en trois parties :
-➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides : ["Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning"](https://www.nature.com/articles/s41598-020-80363-5)
-➥ Étude des outils BLAST et FASTA et l’alignement des séquences en utilisant ces outils
-➥ Programmer la méthode d’alignement globale par programmation dynamique en python et de déduire l’arbre phylogénique par la méthode UPGMA.
+➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides : ["Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning"](https://www.nature.com/articles/s41598-020-80363-5)  
+➥ Étude des outils BLAST et FASTA et l’alignement des séquences en utilisant ces outils   
+➥ Programmer la méthode d’alignement globale par programmation dynamique en python et de déduire l’arbre phylogénique par la méthode UPGMA     
 
 ### Keywords
 
@@ -48,26 +48,26 @@ Le Dataset séquences de protéines ce trouve [ici](data-sequence.txt)
 
 ## Output
 - Première partie :
-  - Travaille demandé :
-➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides
+  - Travaille demandé :   
+➥ Exploitation des principales bases de données de protéines (Protein Data Bank) : NCBI, PDB et PubMed pour ensuite décortiquer un article scientifique basé sur l’application des outils de l’IA sur des séquences nucléotides   
   - Rendement :
-➥ [Rapport sur l'article Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning](Output/Rapport01.pdf)
-➥ [Décortication de l'aticle](Output/Décortication_de_l'aticle.pdf)
+➥ [Rapport sur l'article Classification and specific primer design for accurate detection of SARS-CoV-2 using deep learning](Output/Rapport01.pdf)   
+➥ [Décortication de l'aticle](Output/Décortication_de_l'aticle.pdf)   
   
 - Deuxième partie :
-  - Travaille demandé :
-➥ Sur le serveur NCBI, identifier toutes les séquences de la protéine de la pénicilline.
-➥ Choisir un type de pénicilline et récupérer la séquence au format FASTA.
-➥ En utilisant la séquence récupérée au format FASTA, faites un BLAST au NCBI.
-➥ A laide de la même séquence au format FASTA, interroger la banque de données SwissProt en recherchant les séquences voisines.
-➥ Est-ce que les séquences trouvées sont les mêmes que celle trouvées par BLAST.
-  - Rendement :
-➥ [Rapport Alignement des séquences par FASTA et BLAST](Output/Rapport02.pdf)
+  - Travaille demandé :   
+➥ Sur le serveur NCBI, identifier toutes les séquences de la protéine de la pénicilline.    
+➥ Choisir un type de pénicilline et récupérer la séquence au format FASTA.   
+➥ En utilisant la séquence récupérée au format FASTA, faites un BLAST au NCBI.   
+➥ A laide de la même séquence au format FASTA, interroger la banque de données SwissProt en recherchant les séquences voisines.   
+➥ Est-ce que les séquences trouvées sont les mêmes que celle trouvées par BLAST.    
+  - Rendement :   
+➥ [Rapport Alignement des séquences par FASTA et BLAST](Output/Rapport02.pdf)   
 
 * Troixième partie :
-  * Travaille demandé :
-  ➥ programmer la méthode d’alignement globale par programmation dynamique en phython et de déduire l’arbre phylogénique par la méthode UPGMA (avec sub=-1, Id=2 et GAP=2) puis en utilisant l’algorithme claustal déterminer l’alignement global. En déduire l’arbre phylogénétique et comparer les résultats avec les résultats obtenus en 2
-  ➥ script python : [AAlignement_globale _UPGMA.ipynb](Alignement_globale%20_UPGMA.ipynb)
+  * Travaille demandé :   
+  ➥ programmer la méthode d’alignement globale par programmation dynamique en python et de déduire l’arbre phylogénique par la méthode UPGMA (avec sub=-1, Id=2 et GAP=2) puis en utilisant l’algorithme claustral déterminer l’alignement global. En déduire l’arbre phylogénétique et comparer les résultats avec les résultats obtenus précédemment   
+  ➥ script python : [AAlignement_globale _UPGMA.ipynb](Alignement_globale%20_UPGMA.ipynb)     
 
 ## License
 
