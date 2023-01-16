@@ -4,6 +4,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/UniversityProjects?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/UniversityProjects?color=yellow&style=for-the-badge)
 
+![GitHub dev_language](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
+![GitHub dev_language](<https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white>)
+![GitHub dev_language](<https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white>)
+![GitHub dev_language](<https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white>)
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
 
@@ -89,7 +94,8 @@ Histopathlogique_liver_&_colon Data_set :
 * totale = 735 images
 
 
-#### Totale :
+#### Totale
+
 2909 images
 
 

@@ -44,7 +44,7 @@ import numpy as np
 ```
 
 ## Dataset
-Le Dataset séquences de protéines ce trouve [ici](data-sequence.txt)
+Le Dataset séquences de protéines se trouve [ici](data-sequence.txt)
 
 ## Output
 - Première partie :
@@ -67,7 +67,7 @@ Le Dataset séquences de protéines ce trouve [ici](data-sequence.txt)
 * Troixième partie :
   * Travaille demandé :   
   ➥ programmer la méthode d’alignement globale par programmation dynamique en python et de déduire l’arbre phylogénique par la méthode UPGMA (avec sub=-1, Id=2 et GAP=2) puis en utilisant l’algorithme claustral déterminer l’alignement global. En déduire l’arbre phylogénétique et comparer les résultats avec les résultats obtenus précédemment   
-  ➥ script python : [AAlignement_globale _UPGMA.ipynb](Alignement_globale%20_UPGMA.ipynb)     
+  ➥ script python : [Alignement_globale _UPGMA.ipynb](Alignement_globale%20_UPGMA.ipynb)     
 
 ## License
 
