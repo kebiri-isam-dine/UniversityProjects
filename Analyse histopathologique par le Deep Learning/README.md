@@ -145,4 +145,4 @@ L’organigramme de notre approche proposée est illustré ci-dessous :
 
 🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine/UniversityProjects/Analyse-histopathologique-des-maladies-hépatiques-par-le-Deep-Learning](https://github.com/kebiri-isam-dine/UniversityProjects/tree/main/Analyse%20histopathologique%20par%20le%20Deep%20Learning)
+🔗 Project Link: [https://github.com/kebiri-isam-dine/UniversityProjects/tree/main/Analyse%20histopathologique%20par%20le%20Deep%20Learning](https://github.com/kebiri-isam-dine/UniversityProjects/tree/main/Analyse%20histopathologique%20par%20le%20Deep%20Learning)
